@@ -1,0 +1,8 @@
+{
+  "name": "Kho Học Liệu Ngữ Văn THCS - Cô Kim Liên",
+  "description": "LMS Ngữ Văn THCS thế hệ mới cho giáo viên và học sinh trường THCS Trần Quý Cáp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
